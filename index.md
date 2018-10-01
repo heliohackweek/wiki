@@ -14,14 +14,9 @@ summary: Overview of the hackweek
 
 ### Food
 - Lunch is provided for Monday - Friday. Coffee and snacks will be available throughout each day.
-- Dinner and drinks will be provided on Monday.
-- Participants are expected to take care of their own breakfasts on all days, and their own dinners Tuesday through Friday.
-- If you plan to drink alcohol at our catered event on Monday, please be sure to bring ID as the bartenders are required to check.
+- Participants are expected to take care of their own breakfasts and dinners on all days.
 - Contact an organizer if you have dietary restrictions and we can provide additional information.
 
 ### Internet access and communication
 - For information on wireless access, you can either use Eduroam, if it's available to you, or we'll give you guest access to the UW network on the first day.
 - Slack: [https://icesat2hackweek2019.slack.com](https://icesat2ackweek2019.slack.com)
-
-
---->
