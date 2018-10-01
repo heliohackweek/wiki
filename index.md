@@ -19,4 +19,5 @@ summary: Overview of the hackweek
 
 ### Internet access and communication
 - For information on wireless access, you can either use Eduroam, if it's available to you, or we'll give you guest access to the UW network on the first day.
-- Slack: [https://icesat2hackweek2019.slack.com](https://icesat2ackweek2019.slack.com)
+<!-- Slack: [https://icesat2hackweek2019.slack.com](https://icesat2ackweek2019.slack.com)
+--!>
