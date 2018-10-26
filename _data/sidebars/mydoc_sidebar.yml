@@ -48,6 +48,10 @@ entries:
       url: /learning_resources.html
       output: web, pdf
 
+    - title: Tutorial Leads
+      url: /tutorial_leads.html
+      output: web, pdf
+
   - title: Projects
     output: web, pdf
     folderitems:
@@ -58,12 +62,4 @@ entries:
 
     - title: Project Management
       url: /github_project_management.html
-      output: web, pdf
-
-  - title: Technical Details
-    output: web, pdf
-    folderitems:
-
-    - title: Running Jupyter Notebooks Locally
-      url: /running_jupyter_notebooks.html
       output: web, pdf
