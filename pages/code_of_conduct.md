@@ -4,7 +4,7 @@ sidebar: mydoc_sidebar
 permalink: code_of_conduct.html
 ---
 
-The community of participants of Geo Hack Week is made up of members from around the globe with a diverse set of skills, personalities and experiences. It is through these differences that our community experiences success and continued growth. We expect everyone in our community to follow these guidelines when interacting with others both inside and outside of our community. Our goal is to keep ours a positive, inclusive, successful, and growing community.
+The community of participants at Cryospheric Sciences with ICESat-2 Hack Week is made up of members from around the globe with a diverse set of skills, personalities and experiences. It is through these differences that our community experiences success and continued growth. We expect everyone in our community to follow these guidelines when interacting with others both inside and outside of our community. Our goal is to keep ours a positive, inclusive, successful, and growing community.
 
 As members of the community,
 
