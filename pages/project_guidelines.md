@@ -8,6 +8,27 @@ permalink: project_guidelines.html
 
 Data science projects are becoming increasingly complex, and new tools are needed to manage contributions from different individuals and teams. At this hackweek we would like to introduce you to project management tools built in to GitHub. We invite you to use these tools during our event for your projects, and hopefully continue to contribute to this collaborative work after the event is over. Projects will be a collaborative effort to collectively advance a complex research question, while meeting individual learning goals. Each project group will be composed of several participants (optimal size is usually 4-7 people) sharing a common interest in advancing a well-defined data science challenge. Each group will be assigned a lead Data Scientist and a lead Project Scientist, whose roles and responsibilities are defined belo
 
+## Purpose of the projects:
+
+The purpose of our afternoon sessions is for you to gain hands-on experience in working together on a well-defined problem related to cryospheric sciences and the use of ICESat-2 datasets.
+
+## What is hacking?
+
+Hacking is a session of focused, highly collaborative computer programming, in which we create conditions for rapid absorption of new ideas and methods. The word "hack" or "hackathon" has many different interpretations, both positive and negative. Here our intention is to foster the idea of hacking as a fun, interactive and welcoming environment to explore and experiment with computer code.  
+
+## Why is this important?
+
+Increasingly, research and software development is being conducted across groups of people with diverse skills and backgrounds. We believe this collaborative work leads to more innovative solutions to complex problems. At waterhackweek, our goal is to explore with you some of the skills needed to navigate technical and social challenges of working in these kinds of collaborative settings.
+
+## How will the projects be conducted?
+
+* on day 1 we will facilitate the sharing of ideas and formation of people into small teams (2-5 people)
+* each team will identify and Project and Data Science Lead (described below)
+* once formed, each team will be guided through exercises to help narrow in on a set of tasks that are doable within the 5 days. A brief project outline will be posted to GitHub, following the [GitHub Project Management](https://icesat-2hackweek.github.io/wiki/github_project_management.html) instructions.
+* On day 3 we will have a mid-week project check-in.
+* On day 5 each team will present their work in a series of lightning talks.
+
+
 ### Project Leads
 
 The Project Lead is typically that group member who initially pitched the idea to be worked on by the team. The role of the Project Lead is to:
@@ -30,26 +51,6 @@ The lead data scientist will be drawn from the cohort of [hackweek organizers](h
 * support the project scientist in establishing workflows on GitHub
 * mentor individual team members requesting additional support
 * work with the team to navigate technical or team dynamic challenges
-
-## Purpose of the projects:
-
-The purpose of our afternoon sessions is for you to gain hands-on experience in working together on a well-defined problem related to cryospheric sciences and the use of ICESat-2 datasets.
-
-## What is hacking?
-
-Hacking is a session of focused, highly collaborative computer programming, in which we create conditions for rapid absorption of new ideas and methods. The word "hack" or "hackathon" has many different interpretations, both positive and negative. Here our intention is to foster the idea of hacking as a fun, interactive and welcoming environment to explore and experiment with computer code.  
-
-## Why is this important?
-
-Increasingly, research and software development is being conducted across groups of people with diverse skills and backgrounds. We believe this collaborative work leads to more innovative solutions to complex problems. At waterhackweek, our goal is to explore with you some of the skills needed to navigate technical and social challenges of working in these kinds of collaborative settings.
-
-## How will the projects be conducted?
-
-* on day 1 we will facilitate the sharing of ideas and formation of people into small teams (2-5 people)
-* each team will identify and Project and Data Science lead (described above)
-* once formed, each team will be guided through exercises to help narrow in on a set of tasks that are doable within the 5 days. A brief project outline will be posted to GitHub, following the [GitHub Project Management](https://icesat-2hackweek.github.io/wiki/github_project_management.html) instructions.
-* On day 3 we will have a mid-week project check-in.
-* On day 5 each team will present their work in a series of lightning talks.
 
 ## What can I do to prepare in advance?
 
