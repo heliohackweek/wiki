@@ -47,8 +47,8 @@ Increasingly, research and software development is being conducted across groups
 
 * on day 1 we will facilitate the sharing of ideas and formation of people into small teams (2-5 people)
 * each team will identify and Project and Data Science lead (described above)
-* once formed, each team will be guided through exercises to help narrow in on a set of tasks that are doable within the 5 days. A brief project outline will be posted to GitHub, following the "Project Guidelines" below.
-* On day 3 we will have a mid-week project check-in
+* once formed, each team will be guided through exercises to help narrow in on a set of tasks that are doable within the 5 days. A brief project outline will be posted to GitHub, following the [GitHub Project Management](https://icesat-2hackweek.github.io/wiki/github_project_management.html) instructions.
+* On day 3 we will have a mid-week project check-in.
 * On day 5 each team will present their work in a series of lightning talks.
 
 ## What can I do to prepare in advance?
