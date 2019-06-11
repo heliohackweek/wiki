@@ -10,17 +10,16 @@ Data science projects are becoming increasingly complex, and new tools are neede
 
 ### Project Leads
 
-The lead project scientist is typically that group member who initially pitched the idea to be worked on by the team. The role of the lead project scientist is to:
+The Project Lead is typically that group member who initially pitched the idea to be worked on by the team. The role of the Project Lead is to:
 
 * engage on day 1 with every team member to learn their background, skills and learning interests
 * guide the team in defining project goals that can be reasonably accomplished during the week
-* offer clarifying information about the nature of the proposed project, available datasets, work already accomplished, etc.
+* offer clarifying information about the nature of the proposed project, available datasets and work already accomplished
 * set benchmarks for team activities and check in regularly with team members on progress
-* work with the team to navigate technical or team dynamic challenges
 * help ensure that everyone gets a chance to write code or get their hands on the data in their way.  
 * guide the team in populating GitHub project repositories and README files following the Project Guidelines
 * coordinate with 1-2 Data Scientists to support your team, especially Github workflows that work for everyone to be able to contribute code. 
-* Manage data, making sure you have permission and consent to use data you share in the project.  Follow professional standards while using data for training that may be used in future publications.  Here is a good resource on publication of data and consent ethics. 
+* Manage data, making sure you have permission and consent to use data you share in the project.  Follow professional standards while using data for training that may be used in future publications.  [Here](https://ethics.agu.org/) is a good resource on publication of data and consent ethics. 
 
 ### Data Science Lead
 
@@ -47,17 +46,14 @@ Increasingly, research and software development is being conducted across groups
 ## How will the projects be conducted?
 
 * on day 1 we will facilitate the sharing of ideas and formation of people into small teams (2-5 people)
-* each team will identify:
-  * a project lead, likely the person who pitched the idea, who has knowledge of the datasets and the specific problem to be explored
-  * a data science lead from the pool of waterhack instructors who has expertise in the data tools and methods
+* each team will identify and Project and Data Science lead (described above)
 * once formed, each team will be guided through exercises to help narrow in on a set of tasks that are doable within the 5 days. A brief project outline will be posted to GitHub, following the "Project Guidelines" below.
-* Each morning will start with a daily stand-up meeting to check-in on progress and challenges
 * On day 3 we will have a mid-week project check-in
 * On day 5 each team will present their work in a series of lightning talks.
 
 ## What can I do to prepare in advance?
 
-* if you have a project idea already brewing, we encourage you to share that with the team on our general Slack channel. 
+* if you have a project idea already brewing, we encourage you to share that with the team on our "project_ideas" Slack channel. 
 * feel free to explore various projects and initiate conversations. The goal is to gather as much information as you can to inform your decision about which team to join when we meet in person.
 * contact an organizer if you would like assistance in assessing whether a project is well-scoped, or if you need help with a particular dataset.
 
@@ -71,11 +67,11 @@ Brief title describing the proposed work.
 
 ### Collaborators on this project
 
-_List all participants on the project. Choose one team member to act as project lead, and identify one waterhack organizer as the data science lead._
+List all participants on the project and identify project and data science leads.
 
 ### The problem
 
-What water problem are you going to explore? Provide a few sentences. If this is a technical exploration of software or data science methods, explain why this work is important in a broader context.
+What problem are you going to explore? Provide a few sentences. If this is a technical exploration of software or data science methods, explain why this work is important in a broader context.
 
 ### Application Example
 
@@ -95,7 +91,7 @@ How would you or others traditionally try to address this problem?
 
 ### Proposed methods/tools
 
-Building from what you learn at waterhackweek, what new approaches would you like to try to implement?
+Building from what you learn at the hackweek, what new approaches would you like to try to implement?
 
 ### Background reading
 
