@@ -18,7 +18,7 @@ Hacking is a session of focused, highly collaborative computer programming, in w
 
 ## Why is this important?
 
-Increasingly, research and software development is being conducted across groups of people with diverse skills and backgrounds. We believe this collaborative work leads to more innovative solutions to complex problems. At waterhackweek, our goal is to explore with you some of the skills needed to navigate technical and social challenges of working in these kinds of collaborative settings.
+Increasingly, research and software development is being conducted across groups of people with diverse skills and backgrounds. We believe this collaborative work leads to more innovative solutions to complex problems. Our goal is to explore with you some of the skills needed to navigate technical and social challenges of working in these kinds of collaborative settings.
 
 ## How will the projects be conducted?
 
