@@ -4,25 +4,26 @@ sidebar: mydoc_sidebar
 permalink: code_of_conduct.html
 ---
 
-The community of participants at Cryospheric Sciences with ICESat-2 Hack Week is made up of members from around the globe with a diverse set of skills, personalities and experiences. It is through these differences that our community experiences success and continued growth. We expect everyone in our community to follow these guidelines when interacting with others both inside and outside of our community. Our goal is to keep ours a positive, inclusive, successful, and growing community.
+The organizers of this event are dedicated to providing a harassment-free learning experience for everyone regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, ethnicity, age or religion. Hackweek volunteers and organizers will step up to address harassment of participants and/or presenters in any form if we are direct witnesses. 
 
-As members of the community,
+Harassment includes, but is not limited to:
+* Verbal comments that discriminate on the basis of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, ethnicity, age, religion
+* Sexual images in public spaces
+* Deliberate intimidation, stalking, or following
+* Harassing photography or recording
+* Sustained disruption of talks or other events
+* Inappropriate physical contact
+* Unwelcome sexual attention
+* Advocating for, or encouraging, any of the above behavior
 
-We pledge to treat all people with respect and provide a harassment- and bullying-free environment, regardless of sex, sexual orientation and/or gender identity, disability, physical appearance, body size, race, nationality, ethnicity, and religion. In particular, sexual language and imagery, sexist, racist, or otherwise exclusionary jokes are not appropriate.
+We expect participants to act in ways that support a learning community at all event venues and event-related social activities. We expect you to support collaboration and learning while visiting University of Washington's many communities of practice. Participants asked to stop any harassing behavior are expected to comply immediately. Failure to comply may result in the participant being expelled from the event without refund at the discretion of the organizers.
 
-We pledge to respect the work of others by recognizing acknowledgment/citation requests of original authors. As authors, we pledge to be explicit about how we want our own work to be cited or acknowledged.
+Ways to provide feedback and insights or address unethical or unprofessional behavior at our event:
 
-We pledge to welcome those interested in joining the community, and realize that including people with a variety of opinions and backgrounds will only serve to enrich our community. In particular, discussions relating to pros/cons of various technologies, programming languages, and so on are welcome, but these should be done with respect, taking proactive measure to ensure that all participants are heard and feel confident that they can freely express their opinions.
+If you feel comfortable contacting someone associated with our event, you may speak with one of the event organizers in person, send an e-mail to icesat@uw.edu, or contact an organizer on a private Slack channel.
 
-We pledge to welcome questions and answer them respectfully, paying particular attention to those new to the community.
+If you have experienced or observed harassment, unethical or unprofessional behavior as described above (a violation of this code of conduct) and want to talk to someone not directly associated with our event about it, choose from these specialists below:
 
-We pledge to be conscientious of the perceptions of the wider community and to respond to criticism respectfully. We will strive to model behaviors that encourage productive debate and disagreement, both within our community and where we are criticized. We will treat those outside our community with the same respect as people within our community.
-
-We pledge to help the entire community follow the code of conduct, and to not remain silent when we see violations of the code of conduct. We will take action when members of our community violate this code such as notifying a workshop organizer or talking privately with the person.
-
-This code of conduct applies to all community situations online and offline, including the conference itself, mailing lists, forums, social media, social events associates with the conference, and one-to-one interactions.
-
-Participants asked to stop any harassing behavior are expected to comply immediately. Attendees violating these rules may be asked to leave the event at the sole discretion of the conference organizers.
-
-This code of conduct has been adapted from the [Python in Astronomy Code of Conduct](http://python-in-astronomy.github.io/2016/code-of-conduct.html).
-
+* Contact the Office of the Ombud, 206-543-6028, ombuds@uw.edu, www.uw.edu/ombud. For individuals who are uncertain about whether they want to pursue a formal complaint but would like to speak to someone about unethical or unprofessional behavior or some other challenging situations, the Ombud office provides a confidential, informal, and neutral resource for you. They can assist you with determining what, if any, course of action you would like to pursue and to navigate the different resources on campus.
+* Speak up about discrimination to the University Complaint Investigation and Resolution Office (UCIRO), 206- 616-2028, uciro@uw.edu. Staff are available if you would like to file a formal complaint regarding discrimination.
+* Speak up about sexual misconduct to the Title IX Office, 206-616-5334, tixinv@uw.edu, https://www.washington.edu/compliance/tixio/. Staff are available if you would like to file a formal complaint regarding sexual misconduct.
