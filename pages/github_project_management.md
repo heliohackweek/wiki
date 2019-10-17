@@ -10,9 +10,9 @@ All participants have been added to the [icesat-2hackweek organization](https://
 
 ## Getting started with a Project
 
-Each hackweek project should be initiated by adding a new repository to the [icesat-2hackweek organization](https://github.com/icesat-2hackweek).  The project name should follow the sequence ic2hw2019_short_snappy_title, for example, see this Geohackweek [ghw2018_snowmelt](https://github.com/geohackweek/ghw2018_snowmelt) project repository from 2018.  
+Each hackweek project should be initiated by adding a new repository to the [icesat-2hackweek organization](https://github.com/icesat-2hackweek).  The project name should follow the sequence ic2hw2020_short_snappy_title, for example, see this Geohackweek [ghw2018_snowmelt](https://github.com/geohackweek/ghw2018_snowmelt) project repository from 2018.  
 
-Once you have created your project repository, populate the readme with the structure provided in the [Project Guidelines](https://icesat-2hackweek.github.io/wiki/project_guidelines.html). Finally, go to the [projects_2019](https://github.com/icesat-2hackweek/projects_2019) repository and edit the table in the README file to include a hyperlink to your project where you have the option of adding other details like Slack Channel link, data locations, and other details about project and data science leadership on the project.  
+Once you have created your project repository, populate the readme with the structure provided in the [Project Guidelines](https://icesat-2hackweek.github.io/wiki/project_guidelines.html). Finally, go to the [projects_2020](https://github.com/icesat-2hackweek/projects_2020) repository and edit the table in the README file to include a hyperlink to your project where you have the option of adding other details like Slack Channel link, data locations, and other details about project and data science leadership on the project.  
 
 ## Project guidelines
 
