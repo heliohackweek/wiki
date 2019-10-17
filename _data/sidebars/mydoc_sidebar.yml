@@ -40,6 +40,14 @@ entries:
       url: /travel_and_lodging.html
       output: web, pdf
 
+    - title: Merit Rubrics
+      url: /rubric_for_selection.html
+      output: web, pdf
+
+    - title: Learning Community
+      url: /learning_community.html
+      output: web, pdf
+
   - title: Tutorials
     output: web, pdf
     folderitems:
