@@ -11,7 +11,7 @@ We will use the following rubrics for motivation and contribution for this hackw
 
 ## Motivational Assessment: 
 
-Data used in this assessment include only the particiant response to the application question "Please state why you want to participate in the program, including how particiapation would contribute to your long term goals."
+Data used in this assessment include only the particiant response to the application question "Please state why you want to participate in the program, including how participation would contribute to your long term goals."
 
 <br>
 
@@ -22,7 +22,7 @@ Data used in this assessment include only the particiant response to the applica
 
 ## Demonstrated Motivation Assessment
 
-Data used in this assessment include only the participant response to the application question: "Something I feel I could contriubute to this hack week is:"
+Data used in this assessment include only the participant response to the application question: "Something I feel I could contribute to this hack week is:"
 
 | Incomplete | Benchmark | High | Exemplary |
 | --- | --- | --- | --- |
