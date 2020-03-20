@@ -1,18 +1,18 @@
-repository: ICESAT-2HackWeek/wiki
+repository: heliohackweek/wiki
 
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
 
-topnav_title: ICESAT-2HackWeek Wiki
+topnav_title: heliohackweek Wiki
 # this appears on the top navigation bar next to the home button
 
-site_title: ICESAT-2HackWeek Wiki
+site_title: heliohackwek Wiki
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
-company_name: Applied Physics Laboratory, Univeristy of Washington 
+company_name: NASA 
 # this appears in the footer
 
-github_editme_path: ICESAT-2HackWeek/wiki/blob/gh-pages/
+github_editme_path: heliohackweek/wiki/blob/gh-pages/
 # if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
 
 # gitlab_editme_path: tomjoht/documentation-theme-jekyll/blob/gh-pages/
@@ -35,9 +35,9 @@ exclude:
   - .gitignore
 # these are the files and directories that jekyll will exclude from the build
 
-feedback_subject_line: ICESat-2HackWeek wiki
+feedback_subject_line: heliohackweek wiki
 
-feedback_email: icesat@uw.edu
+feedback_email: TBD@umd.edu
 # used as a contact email for the Feedback link in the top navigation bar
 
 # feedback_disable: true
@@ -107,9 +107,9 @@ sidebars:
 - product2_sidebar
 - other
 
-description: "Wiki page for ICESAT-2HackWeek"
+description: "Wiki page for heliohackweek"
 # the description is used in the feed.xml file
 
 # needed for sitemap.xml file only
-url: https://icesat-2hackweek.github.io
+url: https://heliohackweek.github.io
 baseurl: /wiki
