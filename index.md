@@ -13,7 +13,7 @@ summary: Overview of the hackweek
 - due to space limitations, only registered participants will be allowed to attend the tutorials and open working sessions.
 - Participants are expected to attend all scheduled hackweek activities. Contact an organizer if any circumstances prevent you from attending.
 
-<! –– ### Food
+<!–– ### Food
 - Lunch is provided for Monday - Friday. Coffee and snacks will be available throughout each day.
 - Participants are expected to take care of their own breakfasts and dinners on all days.
 - Contact an organizer if you have dietary restrictions and we can provide additional information.
