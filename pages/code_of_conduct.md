@@ -20,7 +20,7 @@ We expect participants to act in ways that support a learning community at all e
 
 Ways to provide feedback and insights or address unethical or unprofessional behavior at our event:
 
-If you feel comfortable contacting someone associated with our event, you may speak with one of the event organizers in person, send an e-mail to icesat@uw.edu, or contact an organizer on a private Slack channel.
+If you feel comfortable contacting someone associated with our event, you may speak with one of the event organizers in person, send an e-mail to heliohackweek20@gmail.com, or contact an organizer on a private Slack channel.
 
 If you have experienced or observed harassment, unethical or unprofessional behavior as described above (a violation of this code of conduct) and want to talk to someone not directly associated with our event about it, choose from these specialists below:
 
