@@ -10,12 +10,12 @@ Our mission is to create a forum for collective innovation in developing softwar
 
 ### Training and Education
 
-We will share knowledge in modern software tools aimed at handling increasingly large and complex heliophysics science datasets. Our approach will be to develop templates for best practices in solving common geospatial data science challenges, built off a set of sample datasets provided during the hackathon. We will learn from leaders in various fields, and use this knowledge to develop educational content that can be shared across disciplines long after the event. Our training will focus on software tools, but we will also explore challenges in successfully navigating complexity in project management and design.
+We will share knowledge in modern software tools aimed at handling increasingly large and complex heliophysics science datasets. Our approach will be to develop templates for best practices in solving common heliophysics data science challenges, built off a set of sample datasets provided during the hackathon. We will learn from leaders in various fields, and use this knowledge to develop educational content that can be shared across disciplines long after the event. Our training will focus on software tools, but we will also explore challenges in successfully navigating complexity in project management and design.
 
 ### Networking and Community Building
 
 We will connect students, faculty, software developers and others across industry, government, and academic settings.
-The connections we make during the hackathon will be maintained through an online user community. We hope our activities can foster the growth of an interdisciplinary network for solving heliophysics, data science, AI/machine learning challenges.
+The connections we make during the hackathon will be maintained through an online user community. We hope our activities can foster the growth of an interdisciplinary network for solving heliophysics, data science, and AI/machine learning challenges.
 
 ### Data Accessibility / Sustaining an Open Source Community
 
