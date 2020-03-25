@@ -1,5 +1,5 @@
 ---
-title: "Cryospheric Sciences with ICESat-2 hackweek 2020"
+title: "Helio Hackweek 2020 (HW20)"
 keywords: homepage
 tags: [homepage]
 sidebar: mydoc_sidebar
