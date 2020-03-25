@@ -9,7 +9,9 @@ permalink: travel_and_lodging.html
 
 The Ronald Reagan Washington National Airport (DCA) offers a range of connections to the University of Maryland, College Park campus.
 
-The Washinton, DC Metrorail connects Reagan Airport to the College Park Metrorail Station via the Yellow Line (15 stops, approximately 40 minutes). From that station, there are Mtero buses and UMD buses to campus, including #17
+The Washinton, DC Metrorail connects Reagan Airport to the College Park Metrorail Station via the Yellow Line (15 stops, approximately 40 minutes). For directions from a DCA terminal to the Reagan Metrorail Station, see: https://www.flyreagan.com/dca/metrorail-station.
+
+From the College Park Metrorail to the ESJ building on campus is 1/2 miles, walking, and there are buses running regularly from College Park station to campus, including Bus #17.
 
 Taxis and uber/lyft rides are also available from the airport. 
 
