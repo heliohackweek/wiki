@@ -10,6 +10,6 @@ Our tutorials will be focus on the [Python](https://www.python.org/) programming
 
 ## Resources
 
-* general Python beginners guide tutorials and examples [here](https://wiki.python.org/moin/BeginnersGuide/Programmers)
-* Ryan Abernathey has some good introductory Python lectures [here](https://github.com/rabernat/python_teaching)
+* general Python beginners guide tutorials and examples <!-- [here](https://wiki.python.org/moin/BeginnersGuide/Programmers) -->
+* Jules Kouatchou has some good introductory Python lectures <!-- [here](https://github.com/rabernat/python_teaching) -->
 
