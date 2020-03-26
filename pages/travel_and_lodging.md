@@ -11,7 +11,7 @@ The Ronald Reagan Washington National Airport (DCA) offers a range of connection
 
 The Washington, DC Metrorail connects Reagan Airport to the College Park Metrorail Station via the Yellow Line (15 stops, approximately 40 minutes). For directions from a DCA terminal to the Reagan Metrorail Station, see: [this link](https://www.flyreagan.com/dca/metrorail-station)
 
-From the College Park Metrorail Station to the ESJ building on campus is 1-1/2 miles, walking, and there are buses running regularly from College Park station to campus, including Bus #17.
+From the [College Park Metrorail Station](https://www.google.com/maps/place/College+Park+Metrorail+Station/@38.978181,-76.927441,15z/data=!4m5!3m4!1s0x0:0x8ae011d055669245!8m2!3d38.978181!4d-76.927441) to the ESJ building on campus is 1-1/2 miles, walking, and there are buses running regularly from College Park station to campus, including Bus #17.
 
 Taxis and Uber/Lyft rides are also available from the airport. 
 
