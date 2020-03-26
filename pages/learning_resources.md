@@ -10,5 +10,5 @@ Our tutorials will be focus on the [Python](https://www.python.org/) programming
 
 ## Resources
 
-* Jules Kouatchou has some good introductory Python lectures. These training modules will help participants prepare for the hackweek. Click [here](https://astg606.github.io/py_courses/helio_hw2020/) to begin.
+* Jules Kouatchou at NASA Goddard has prepared some good, introductory training courses in using Jupyter Notebooks, Git, Python, Data Science, and Machine Learning. These training modules will help participants prepare for the hackweek. Click [here](https://astg606.github.io/py_courses/helio_hw2020/) to view the modules.
 
