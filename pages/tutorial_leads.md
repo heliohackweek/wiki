@@ -14,11 +14,11 @@ Hackweeks are an experimental educational model that aim to build community, pro
 
 What does this mean from the perspective of a tutorial lead? We invite you to design your tutorials with the following considerations in mind:
 
-* try for content that is broad in scope and gives an initial picture of what might be possible when applying a particular data science tool. Save detailed explanations on a narrow topic for a later breakout session.
-* start with simple explanations that attend to people who are seeing this content for the first time, AND keep advanced participants engaged by inviting them to assist others, or to explore more advanced concepts through individual study.
-* make your tutorials interactive through live coding challenges, working through a Juypter Notebook together, or interactive discussions. Leave some space when you are not talking for people to work through examples and ask questions. 
-* prepare your tutorials well in advance and practice them in front of a sample audience. We are available to help review your tutorials and provide advice on conent and delivery. 
-* take a bit of time to review the online [tutorials](https://astg606.github.io/py_courses/helio_hw2020/) we offer. [Here](https://www.youtube.com/watch?v=VMJ1ZO48cwU) is an example of a particularly well-crafted tutorial by Catherine Kuhn at a University of Washington geohackweek.
+* Try for content that is broad in scope and gives an initial picture of what might be possible when applying a particular data science tool. Save detailed explanations on a narrow topic for a later breakout session.
+* Start with simple explanations that attend to people who are seeing this content for the first time, AND keep advanced participants engaged by inviting them to assist others, or to explore more advanced concepts through individual study.
+* Make your tutorials interactive through live coding challenges, working through a Juypter Notebook together, or interactive discussions. Leave some space when you are not talking for people to work through examples and ask questions. 
+* Prepare your tutorials well in advance and practice them in front of a sample audience. We are available to help review your tutorials and provide advice on conent and delivery. 
+* Take a bit of time to review the online [tutorials](https://astg606.github.io/py_courses/helio_hw2020/) we offer. [Here](https://www.youtube.com/watch?v=VMJ1ZO48cwU) is an example of a particularly well-crafted tutorial by Catherine Kuhn at a University of Washington geohackweek.
 
 Regarding deadlines, we ask all tutorial leads to have a draft tutorial prepared one month in advance of the event. This is essential so that we can configure our computing services with the libraries and datasets you need for the tutorial to run smoothly. 
 
