@@ -6,7 +6,7 @@ permalink: mission_statement.html
 
 ### Mission
 
-Our mission is to create a forum for collective innovation in developing software to address geospatial science challenges. We will draw from eScience Institute [working group methodologies](http://escience.washington.edu/working-groups/) to advance the following four goals:
+Our mission is to create a forum for collective innovation in developing software to address geospatial science challenges. We will draw from the University of Washington eScience Institute's [working group methodologies](http://escience.washington.edu/working-groups/) to advance the following four goals:
 
 ### Training and Education
 
