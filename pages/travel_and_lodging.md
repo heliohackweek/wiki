@@ -13,7 +13,7 @@ The Washington, DC Metrorail connects Reagan Airport to the College Park Metrora
 
 From the College Park Metrorail Staition to the ESJ building on campus is 1-1/2 miles, walking, and there are buses running regularly from College Park station to campus, including Bus #17.
 
-Taxis and uber/lyft rides are also available from the airport. 
+Taxis and Uber/Lyft rides are also available from the airport. 
 
 # Lodging
 
