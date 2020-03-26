@@ -18,11 +18,11 @@ What does this mean from the perspective of a tutorial lead? We invite you to de
 * start with simple explanations that attend to people who are seeing this content for the first time, AND keep advanced participants engaged by inviting them to assist others, or to explore more advanced concepts through individual study.
 * make your tutorials interactive through live coding challenges, working through a Juypter Notebook together, or interactive discussions. Leave some space when you are not talking for people to work through examples and ask questions. 
 * prepare your tutorials well in advance and practice them in front of a sample audience. We are available to help review your tutorials and provide advice on conent and delivery. 
-* take a bit of time to review tutorials offered at our previous hackweeks. [Here](https://www.youtube.com/watch?v=VMJ1ZO48cwU) is an example of a particularly well-crafted tutorial by Catherine Kuhn at last year's geohackweek.
+* take a bit of time to review the online tutorials we offer. [Here](https://www.youtube.com/watch?v=VMJ1ZO48cwU) is an example of a particularly well-crafted tutorial by Catherine Kuhn at a University of Washington geohackweek.
 
 Regarding deadlines, we ask all tutorial leads to have a draft tutorial prepared one month in advance of the event. This is essential so that we can configure our computing services with the libraries and datasets you need for the tutorial to run smoothly. 
 
-As a hackweek tutor for this event, it is your responsibility to adhere to the hackweek [code of conduct](https://icesat-2hackweek.github.io/wiki/code_of_conduct.html) designed by the Seattle data science community. Your visibility throughout the event provides you with a unique opportunity to demonstrate professional, respectful behaviors that other participants can emulate throughout the week. You will actively participate in communicating the code of conduct to all other participants, and we will rely on you to assist the administrative team in identifying or navigating any code of conduct violations should they occur.
+As a hackweek tutor for this event, it is your responsibility to adhere to the hackweek [code of conduct](https://heliohackweek.github.io/wiki/code_of_conduct.html). Your visibility throughout the event provides you with a unique opportunity to demonstrate professional, respectful behaviors that other participants can emulate throughout the week. You will actively participate in communicating the code of conduct to all other participants, and we will rely on you to assist the administrative team in identifying or navigating any code of conduct violations should they occur.
 
 # Technical Considerations
 
