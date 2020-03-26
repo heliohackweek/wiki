@@ -10,6 +10,5 @@ Our tutorials will be focus on the [Python](https://www.python.org/) programming
 
 ## Resources
 
-* general Python beginners guide tutorials and examples <!-- [here](https://wiki.python.org/moin/BeginnersGuide/Programmers) -->
-* Jules Kouatchou has some good introductory Python lectures <!-- [here](https://github.com/rabernat/python_teaching) -->
+* Jules Kouatchou has some good introductory Python lectures. This page was created to help participants obtain the expected computer programming knowledge before the event. Click [here](https://astg606.github.io/py_courses/helio_hw2020/)
 
