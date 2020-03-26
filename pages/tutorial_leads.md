@@ -6,7 +6,7 @@ permalink: tutorial_leads.html
 
 # Overview
 
-The purpose of this page is to provide detailed information on the activities, roles and responsibilities of hackweek tutorial leads. We draw this information from this excellent, coauthored [publication on hackweeks](http://www.pnas.org/content/115/36/8872.short).
+The purpose of this page is to provide detailed information on the activities, roles and responsibilities of hackweek tutorial leads. We draw this information from this excellent, coauthored [publication on hackweeks](http://www.pnas.org/content/115/36/8872.short) by Daniela Huppenkothen, Anthony Arendt et al.
 
 # Roles and Responsibilities
 
