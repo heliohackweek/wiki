@@ -10,5 +10,5 @@ Our tutorials will be focus on the [Python](https://www.python.org/) programming
 
 ## Resources
 
-* Jules Kouatchou has some good introductory Python lectures. This page was created to help participants obtain the expected computer programming knowledge before the event. Click [here](https://astg606.github.io/py_courses/helio_hw2020/)
+* Jules Kouatchou has some good introductory Python lectures. These training modules will help participants prepare for the hackweek. Click [here](https://astg606.github.io/py_courses/helio_hw2020/) to begin.
 
