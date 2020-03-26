@@ -2,7 +2,7 @@
 
 entries:
 - title: sidebar
-  product: ICESat2HackWeek Wiki
+  product: heliohackweek Wiki
   version: 2020
   folders:
 
@@ -48,26 +48,27 @@ entries:
       url: /learning_community.html
       output: web, pdf
 
-  - title: Tutorials
-    output: web, pdf
-    folderitems:
+# temporarily commented out 
+  # - title: Tutorials
+  #   output: web, pdf
+  #   folderitems:
 
-    - title: Preparation
-      url: /learning_resources.html
-      output: web, pdf
+  #   - title: Preparation
+  #     url: /learning_resources.html
+  #     output: web, pdf
 
-    - title: Tutorial Leads
-      url: /tutorial_leads.html
-      output: web, pdf
+  #   - title: Tutorial Leads
+  #     url: /tutorial_leads.html
+  #     output: web, pdf
 
-  - title: Projects
-    output: web, pdf
-    folderitems:
+  # - title: Projects
+  #   output: web, pdf
+  #   folderitems:
 
-    - title: Guidelines
-      url: /project_guidelines.html
-      output: web, pdf
+  #   - title: Guidelines
+  #     url: /project_guidelines.html
+  #     output: web, pdf
 
-    - title: Project Management
-      url: /github_project_management.html
-      output: web, pdf
+  #   - title: Project Management
+  #     url: /github_project_management.html
+  #     output: web, pdf
