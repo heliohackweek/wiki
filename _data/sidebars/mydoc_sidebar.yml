@@ -48,18 +48,19 @@ entries:
       url: /learning_community.html
       output: web, pdf
 
+  - title: Tutorials
+    output: web, pdf
+    folderitems:
+
+    - title: Preparation
+      url: /learning_resources.html
+      output: web, pdf
+
+    - title: Tutorial Leads
+      url: /tutorial_leads.html
+      output: web, pdf
+
 # temporarily commented out 
-  # - title: Tutorials
-  #   output: web, pdf
-  #   folderitems:
-
-  #   - title: Preparation
-  #     url: /learning_resources.html
-  #     output: web, pdf
-
-  #   - title: Tutorial Leads
-  #     url: /tutorial_leads.html
-  #     output: web, pdf
 
   # - title: Projects
   #   output: web, pdf
