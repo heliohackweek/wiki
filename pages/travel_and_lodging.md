@@ -19,5 +19,5 @@ Taxis and uber/lyft rides are also available from the airport.
 
 Most participants from outside of the region will likely stay at a nearby Airbnb rental.
 
-A courtesy block of rooms have been reserved at "The Hotel at the University of Maryland," which is on campus. An event code will be provided soon. 
+A courtesy block of rooms have been reserved at [The Hotel at the University of Maryland)]https://www.thehotelumd.com/), which is on campus. An event code will be provided soon. 
 
