@@ -7,7 +7,7 @@ permalink: index.html
 summary: Overview of the hackweek
 ---
 ### Quick Info
-- This event will be held June 8 to 12, 2020 in the [Edward St. John Teaching and Learning Center]( https://www.google.com/maps/place/Edward+St.+John+Learning+and+Teaching+Center/@38.9871802,-76.9432429,17z/data=!4m13!1m7!3m6!1s0x0:0x0!2zMzjCsDU5JzEzLjgiTiA3NsKwNTYnMzMuNyJX!3b1!8m2!3d38.9871719!4d-76.942685!3m4!1s0x89b7c697ef6ced11:0xa35cd8e643c0c5f2!8m2!3d38.9871927!4d-76.9420624), Room 2309 (TERP Classroom) at the University of Maryland, College Park campus.
+- This event will be held August 3 to 7, 2020 in the [Edward St. John Teaching and Learning Center]( https://www.google.com/maps/place/Edward+St.+John+Learning+and+Teaching+Center/@38.9871802,-76.9432429,17z/data=!4m13!1m7!3m6!1s0x0:0x0!2zMzjCsDU5JzEzLjgiTiA3NsKwNTYnMzMuNyJX!3b1!8m2!3d38.9871719!4d-76.942685!3m4!1s0x89b7c697ef6ced11:0xa35cd8e643c0c5f2!8m2!3d38.9871927!4d-76.9420624), Room 2309 (TERP Classroom) at the University of Maryland, College Park campus.
 
 - We will start the morning sessions at **9:00 AM sharp.** Please arrive at least 30 minutes prior to get situated. Thank you.
 - Due to space limitations, only registered participants will be allowed to attend the tutorials and open working sessions.
