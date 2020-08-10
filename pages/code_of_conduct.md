@@ -9,12 +9,19 @@ The organizers of this event are dedicated to providing a harassment-free learni
 Harassment includes, but is not limited to:
 
 •	Verbal comments that discriminate on the basis of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, ethnicity, age, religion, or career level
+
 •	Sexual images in public spaces
+
 •	Deliberate intimidation, stalking, or following
+
 •	Harassing photography or recording
+
 •	Sustained disruption of talks or other events
+
 •	Inappropriate physical contact
+
 •	Unwelcome sexual attention
+
 •	Advocating for, or encouraging, any of the above behavior
 
 We expect participants to act in ways that support a learning community on all event communication and collaboration platforms and event-related social activities. We expect you to support collaboration and learning while working in the Helio Hackweek communities of practice. 
