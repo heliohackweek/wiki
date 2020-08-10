@@ -8,9 +8,8 @@ The organizers of this event are dedicated to providing a harassment-free learni
 
 Harassment includes, but is not limited to:
 
-•	Verbal comments that discriminate on the basis of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, ethnicity, age, religion, or career level
-
-•	Sexual images in public spaces
+- Verbal comments that discriminate on the basis of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, ethnicity, age, religion, or career level
+- Sexual images in public spaces
 
 •	Deliberate intimidation, stalking, or following
 
