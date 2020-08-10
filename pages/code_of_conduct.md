@@ -4,7 +4,7 @@ sidebar: mydoc_sidebar
 permalink: code_of_conduct.html
 ---
 
-The organizers of this event are dedicated to providing a harassment-free learning experience for everyone regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, ethnicity, age or religion. Hackweek volunteers and organizers will step up to address harassment of participants and/or presenters in any form if we are direct witnesses.
+The organizers of this event are dedicated to providing a harassment-free learning experience for everyone regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, ethnicity, age, religion, or career level. Hackweek volunteers and organizers will step up to address harassment of participants and/or presenters in any form if we are direct witnesses.
 
 Harassment includes, but is not limited to:
 •	Verbal comments that discriminate on the basis of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, ethnicity, age, religion, or career level
