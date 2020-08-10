@@ -25,4 +25,5 @@ If you feel comfortable contacting someone associated with our event, you may sp
 If you have experienced or observed harassment, unethical or unprofessional behavior as described above (a violation of this code of conduct) and want to talk to someone not directly associated with our event about it, choose from these specialists below:
 
 * Contact the NASA Goddard Ombuds Office. Website: https://www.nasa.gov/offices/ombuds. Phone: 301.286.7259. 
+
 IMPORTANT: Traditional academic metrics may not fully recognize the many ways individuals contribute to our learning community. In tutorials, projects, group presentations and code repositories, set up a mutually-agreed upon system for attribution of ideas and effort. When in doubt, participants agree to ask each other if they approve of the ways in which you plan to use and build on their ideas and content, both during and after the hackweek.
