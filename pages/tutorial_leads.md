@@ -3,16 +3,15 @@ title: Tutorial Leads
 sidebar: mydoc_sidebar
 permalink: tutorial_leads.html
 ---
-
-# Overview
-
-The purpose of this page is to provide detailed information on the activities, roles and responsibilities of hackweek tutorial leads. We draw this information from an excellent, coauthored [publication on hackweeks](http://www.pnas.org/content/115/36/8872.short) by  Daniela Huppenkothen, Anthony Arendt et al.
+# Python Self-Test
+Try this [Python self-test](https://docs.google.com/forms/d/e/1FAIpQLSdXdI4yQI0voiZ8AZFYw5yyrXbiZAU87vHJm574PwP9l8IXdA/viewform) prior to using the Tutorials
 
 # Pre-Hackweek Tutorials
 Jules Kouatchou from NASA Goddard has created a set of [pre-hackweek tutorials](https://astg606.github.io/py_courses/helio_hw2020/)
 
-# Python self-test
-Try this [Python self-test](https://docs.google.com/forms/d/e/1FAIpQLSdXdI4yQI0voiZ8AZFYw5yyrXbiZAU87vHJm574PwP9l8IXdA/viewform) prior to using the learning modules
+# Overview
+
+The purpose of this page is to provide detailed information on the activities, roles and responsibilities of hackweek tutorial leads. We draw this information from an excellent, coauthored [publication on hackweeks](http://www.pnas.org/content/115/36/8872.short) by  Daniela Huppenkothen, Anthony Arendt et al.
 
 # Roles and Responsibilities
 
