@@ -8,5 +8,5 @@ summary: Overview of the hackweek
 ---
 ### Quick Info
 - This event will be held virtually from August 20 to 27, 2020.
-
-- Participants are expected to attend all scheduled hackweek activities. Contact an organizer if any circumstances prevent you from attending.
+- All Helio Hackweek participnts have been assigned to a project team, as of August 7, 2020.
+- Participants are expected to attend all scheduled hackweek activities. Contact an organizer or your project leader if any circumstances prevent you from attending. Thank you!
