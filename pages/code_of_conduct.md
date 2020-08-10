@@ -20,11 +20,9 @@ We expect participants to act in ways that support a learning community at all e
 
 Ways to provide feedback and insights or address unethical or unprofessional behavior at our event:
 
-If you feel comfortable contacting someone associated with our event, you may speak with one of the event organizers in person, send an e-mail to heliohackweek20@gmail.com, or contact an organizer on a private Slack channel.
+If you feel comfortable contacting someone associated with our event, you may speak with one of the event organizers in person, send an e-mail to heliohackweek20@gmail.com, or contact an organizer or Project Mentor on a private Slack channel.
 
 If you have experienced or observed harassment, unethical or unprofessional behavior as described above (a violation of this code of conduct) and want to talk to someone not directly associated with our event about it, choose from these specialists below:
 
-* Contact the University of Maryland Ombuds Services Office. Website: president.umd.edu/ombuds. Phone: 206-543-6028. Email: escholni@umd.edu. An Ombuds officer, Ombudsman, or simply "Ombuds" is a person who can be consulted by members of the university community who want to get information about University policies relating to their activities or who encounter problems that they cannot resolve through ordinary channels.
-* Report discrimination or sexual misconduct to the University of Maryland Office of Civil Rights & Sexual Misconduct (OCRSM) Website: www.ocrsm.umd.edu. Phone: 301-405-1142. Email: titleixcoordinator@umd.edu. Staff are available if you would like to file a formal complaint regarding discrimination or sexual misconduct. 
-
+* Contact the NASA Goddard Ombuds Office. Website: https://www.nasa.gov/offices/ombuds. Phone: 301.286.7259. 
 IMPORTANT: Traditional academic metrics may not fully recognize the many ways individuals contribute to our learning community. In tutorials, projects, group presentations and code repositories, set up a mutually-agreed upon system for attribution of ideas and effort. When in doubt, participants agree to ask each other if they approve of the ways in which you plan to use and build on their ideas and content, both during and after the hackweek.
