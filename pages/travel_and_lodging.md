@@ -1,5 +1,5 @@
 ---
-title: Travel and Lodging
+title: Travel 
 sidebar: mydoc_sidebar
 permalink: travel_and_lodging.html
 ---
