@@ -36,6 +36,7 @@ entries:
       url: /mission_statement.html
       output: web, pdf
 
+    <!
     - title: Travel and Lodging
       url: /travel_and_lodging.html
       output: web, pdf   
