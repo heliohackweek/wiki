@@ -36,8 +36,7 @@ entries:
       url: /mission_statement.html
       output: web, pdf
 
-    <!-- 
-    - title: Travel and Lodging
+    - title: Platforms Used
       url: /travel_and_lodging.html
       output: web, pdf   
       -->
