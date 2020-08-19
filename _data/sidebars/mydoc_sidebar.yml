@@ -36,10 +36,6 @@ entries:
       url: /mission_statement.html
       output: web, pdf
 
-       - title: PLatforms Used
-      url: /travel_and_lodging.html
-      output: web, pdf   
-  
     - title: Merit Rubrics
       url: /rubric_for_selection.html
       output: web, pdf
@@ -73,3 +69,7 @@ entries:
   #   - title: Project Management
   #     url: /github_project_management.html
   #     output: web, pdf
+  
+  #   - title: Travel and Lodging
+  #     url: /travel_and_lodging.html
+  #     output: web, pdf 
